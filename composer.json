@@ -1,0 +1,9 @@
+{
+    "name": "andaris/test",
+    "license": "mit",
+    "description": "example project for GitHub packagist hook - v0",
+    "type": "project",
+    "require": {
+        "php": ">=5.3.9"
+    }
+}
